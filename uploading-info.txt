@@ -1,0 +1,7 @@
+cd into chrome-extenzion-zipper
+
+run "vsce package"
+
+take the .vsix file it creates
+
+upload into marketplace.vistualstudio.com
